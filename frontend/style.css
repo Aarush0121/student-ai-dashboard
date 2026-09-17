@@ -1,0 +1,33 @@
+h1 {
+    color:rgb(23, 69, 197);
+}
+button{
+    color:cadetblue;
+}
+body{
+    background-color: yellow;
+}
+/* for id use# */
+#head{ 
+    color:rgb(50, 141, 153);
+}
+/* gor class use .  */
+.class{
+
+}
+/* inline <button style=color=rgb, <style>button and style sheet */
+/* text property */
+#helo{
+    text-align:right;
+    font-weight: bold;
+}
+h1{
+    text-decoration: black underline  ;
+}
+a{
+    text-decoration: none;
+    color:rgb(237, 14, 14);
+}
+h3{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
